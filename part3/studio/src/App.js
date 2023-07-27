@@ -1,16 +1,13 @@
 import './App.css';
-import BoardAssignment from './components/BoardAssignment';
-import StatusChange from './components/StatusChange';
-import RecipeDisplay from './components/Recipe'; 
+import HobbyIntroduction from './components/Introduction';
+import MyProjects from './components/Projects';
 
 function App() {
   return (
     <div className="App">
-      <RecipeDisplay />
-      <div className="recipePhotoBlock">
-        <BoardAssignment />
-        <StatusChange />
-      </div>
+      <h1>My Hobby: Swimming</h1>
+      <HobbyIntroduction />
+      <MyProjects />
     </div>
   );
 }

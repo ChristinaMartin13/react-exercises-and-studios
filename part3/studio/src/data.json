@@ -1,0 +1,34 @@
+
+{ "projects": [
+    {
+        "poolGear" : "Swim Suit",
+        "designer" : "Dolphin Uglies",
+        "photoURL" : "https://m.media-amazon.com/images/I/91ihfJDpLNL._AC_UY1000_.jpg",
+        "alt" : "Photo of Swimsuit"
+    },
+    {
+        "poolGear" : "Vanquisher 2.0 Swim Goggles",
+        "designer" : "Speedo",
+        "photoURL" : "https://www.swimoutlet.com/cdn/shop/files/5672725971112-blacksilver-1a.jpg?v=1686780575",
+        "alt" : "Photo of Swim Goggles" 
+    },
+    {
+        "poolGear" : "Swim Bag",
+        "designer" : "Speedo",
+        "photoURL" : "https://m.media-amazon.com/images/I/81YJkIpb9fL._AC_SY355_.jpg",
+        "alt" : "Photo of Swim Bag" 
+    },
+    {
+        "poolGear" : "Shammy Swim Towel",
+        "designer" : "Speedo",
+        "photoURL" : "https://cdn.shopify.com/s/files/1/0248/3024/6994/products/5672471888040-poolblue-3a_400x.jpg?v=1598441897",
+        "alt" : "Photo of Swim Towel" 
+    },
+    {
+        "poolGear" : "Silicone Swim Cap",
+        "designer" : "Sporti",
+        "photoURL" : "https://cdn.shopify.com/s/files/1/0248/3024/6994/products/5672538144936-multipurple-2a_400x.jpg?v=1598438674",
+        "alt" : "Photo of Swim Cap" 
+    }
+]
+}
